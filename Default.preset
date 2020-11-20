@@ -133,7 +133,7 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
-ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
+ShowLargeTaskbarIcons        #ShowSmallTaskbarIcons            
 SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 ShowTrayIcons                   # HideTrayIcons
@@ -149,7 +149,7 @@ DisableShortcutInName           # EnableShortcutInName
 SetVisualFXPerformance          # SetVisualFXAppearance
 # EnableTitleBarColor           # DisableTitleBarColor
 SetAppsDarkMode               # SetAppsLightMode
-# SetSystemLightMode            SetSystemDarkMode
+SetSystemDarkMode		# SetSystemLightMode            
 # AddENKeyboard                 # RemoveENKeyboard
 # EnableNumlock                 # DisableNumlock
 # DisableEnhPointerPrecision    # EnableEnhPointerPrecision
@@ -164,7 +164,7 @@ DisableF1HelpKey                # EnableF1HelpKey
 ShowKnownExtensions             # HideKnownExtensions
 ShowHiddenFiles                 # HideHiddenFiles
 ShowSuperHiddenFiles          # HideSuperHiddenFiles
-ShowEmptyDrives               # HideEmptyDrives
+HideEmptyDrives          # ShowEmptyDrives     
 # ShowFolderMergeConflicts      # HideFolderMergeConflicts
 EnableNavPaneExpand             # DisableNavPaneExpand
 # ShowNavPaneAllFolders         # HideNavPaneAllFolders
